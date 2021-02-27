@@ -2,7 +2,7 @@ function main() {
   console.log(hello())
 }
 
-function hello(name?: string) {
+export function hello(name?: string) {
   return `Hello ${name ?? 'World'}!`
 }
 

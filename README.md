@@ -1,4 +1,4 @@
-# node-typescript-bilerplate
+# node-typescript-boilerplate
 
 A template for [Node.js](https://github.com/nodejs/node) & [Typescript](https://github.com/microsoft/TypeScript) projects.
 

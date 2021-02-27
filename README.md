@@ -4,5 +4,10 @@ A template for [Node.js](https://github.com/nodejs/node) & [Typescript](https://
 
 ## What is included
 
-- Node.js
-- Typescript
+- [Node.js](https://github.com/nodejs/node)
+- [Typescript](https://github.com/microsoft/TypeScript)
+- [Jest](https://github.com/facebook/jest)
+- [ESLint](https://github.com/eslint/eslint)
+  - `eslint:recommended`, `plugin:@typescript-eslint/recommended`
+- [Prettier](https://github.com/prettier/prettier)
+- VSCode setting for ESLint and Prettier
